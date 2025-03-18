@@ -9,7 +9,7 @@
 </head>
 <body>
     <x-navbar/>
-    <div class="container mx-auto px-6 py-10">
+    <div class="container mx-auto px-6 py-10 mt-20 mb-40 rounded-b-md bg-gray-200">
         <h1> Selamat Datang di Aplikasi pengelola masjid</h1>
     </div>
     <x-footer/>
