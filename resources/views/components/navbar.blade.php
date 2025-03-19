@@ -12,10 +12,10 @@
       </svg>
     </div>
     <li class="font-medium text-sm p-3 hover:bg-slate-300 dark:hover:bg-slate-800 sm:p-0 sm:hover:bg-transparent text-primary">
-      <a href="#" class="dark:text-white">Home</a>
+      <a href="/" class="dark:text-white">Home</a>
     </li>
     <li class="font-medium text-sm p-3 cursor-pointer hover:bg-slate-300 dark:hover:bg-slate-800 sm:p-0 sm:hover:bg-transparent text-gray-600 hover:text-primary transition-colors">
-      <a href="#" class="dark:text-white">Kajian</a>
+      <a href="/jadwal-kegiatan" class="dark:text-white">Kajian</a>
     </li>
     <li class="font-medium text-sm p-3 cursor-pointer hover:bg-slate-300 dark:hover:bg-slate-800 sm:p-0 sm:hover:bg-transparent text-gray-600 hover:text-primary transition-colors">
       <a href="#" class="dark:text-white">About</a>
